@@ -1,0 +1,31 @@
+{
+ "version": 1,
+ "built": "2026-11-22",
+ "run": "full-v1",
+ "files": {
+  "age5-7": {
+   "file": "v1/kids-age5-7-v1.pkwd",
+   "version": 1,
+   "bytes": 7907867,
+   "unpacked_bytes": 27312128,
+   "sha256": "cd89c2f276edb4b7e9da87ea0ddae1f8c17bdecf27a85fb83688262201324002",
+   "redirects": 286,
+   "entries": 22857,
+   "with_games": 22114,
+   "with_silly": 21211,
+   "gaps_dropped": 6
+  },
+  "age8-10": {
+   "file": "v1/kids-age8-10-v1.pkwd",
+   "version": 1,
+   "bytes": 8515106,
+   "unpacked_bytes": 29302784,
+   "sha256": "6f6f51d7652fcedcad2796bf84018b38c218a8c7d494f0316087fe237859caec",
+   "redirects": 286,
+   "entries": 22861,
+   "with_games": 22118,
+   "with_silly": 21140,
+   "gaps_dropped": 14
+  }
+ }
+}
